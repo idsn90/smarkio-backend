@@ -7,12 +7,11 @@ Este projeto consiste em retornar as informações de um filme através da busca
 
 ## Como rodar
 
-- arquivo .env - coloque as informações da API retiradas do site, URL e CHAVE, colocar os respectivos valores seguindo o exemplo colocado
+- arquivo .env - coloque as informações da API retiradas do site, URL e CHAVE, siga o exemplo.
 
 - instale as dependencias: $ npm intall
 
 - inicie o projeto: $ yarn dev
 
 - O servidor inciará na porta:8081 - acesse <http://localhost:3333>
-
 
